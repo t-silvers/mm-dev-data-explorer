@@ -1,0 +1,6 @@
+[submodule "TLS"]
+	path = TLS
+	url = https://github.com/t-silvers/TLS.git
+[submodule "EpigeneticRegulators_MouseGastrulation"]
+	path = EpigeneticRegulators_MouseGastrulation
+	url = https://github.com/t-silvers/EpigeneticRegulators_MouseGastrulation.git
